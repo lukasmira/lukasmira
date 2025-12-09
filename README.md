@@ -10,6 +10,8 @@
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasmira)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasmira&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<div>
+  <a href="https://github.com/lukasmira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasmiraa&show_icons=true&theme=radical"/>
+</div>
+
